@@ -38,8 +38,5 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<p align="center"><em>Fun fact: I broke my elbow after inline skating for literally 2 seconds</em></p>
 
 <!-- TODO: Support section (Buy Me a Coffee / Ko-fi) — add once an account is set up. -->
