@@ -29,9 +29,7 @@ Software engineer with broad experience across programming languages, frameworks
 
 ---
 
-## Tech stack
-
-**Languages**
+## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -39,13 +37,13 @@ Software engineer with broad experience across programming languages, frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks**
+## Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Tools & platforms**
+## Tools & platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -62,18 +60,5 @@ Software engineer with broad experience across programming languages, frameworks
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michiruf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michiruf&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=michiruf&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
 
 <!-- TODO: Support section (Buy Me a Coffee / Ko-fi) — add once an account is set up. -->
