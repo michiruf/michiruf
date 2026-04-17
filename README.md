@@ -36,6 +36,7 @@
 ## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Copy-Pasting HTTP Fakes by Hand? Laravel Http Automock Can Do It For You](https://dev.to/michiruf/copy-pasting-http-fakes-by-hand-laravel-http-automock-can-do-it-for-you-kok)
 <!-- BLOG-POST-LIST:END -->
 
 
