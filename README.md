@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5686F5&center=true&vCenter=true&width=650&lines=Software+engineer+based+in+Germany;Laravel+%E2%80%A2+Service+integrations+%E2%80%A2+eCommerce;Reliable+solutions+through+rigorous+engineering" alt="intro" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michiruf&label=Profile%20views&color=5686F5&style=flat-square" alt="Profile views" />
-</p>
-
 ## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
