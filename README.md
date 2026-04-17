@@ -32,6 +32,9 @@
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Akeneo](https://img.shields.io/badge/Akeneo-994aff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBUlEQVR42sWYzSsEcRjHZ1k2xdaWSFKUUhKluHjLhfIHoPbi4EBxkLODuCLlgJIDKS4uHBA5EMVy2JSk5F2rbF4O3sf3qWdq22bWb2ZnfvOrT1vbNM/n9/I8v2dXUVVVAR5QDIZACFw7xAVYBUGQSXG14JVgB/yocsYLGAEBEsgDG6r88Q4GSaATfKjujAgJzKouDhJYseldX+DVTYEI6AfHbgk8gWpQDtZFM8pOgWdQy2ldBJZFJJwQ0GpLIViTvQVV/E5NgrYjLEvgBpTECBApoI0rn+MCdIdkxwkQWXweTAnQch5xbouOeZCmI0Bb0WV0II0ELkE9GAa3AsG/QS8HU3QI8jPCArRnDTyjGjAHHhMIkGSFQXA6BwNmt4Bsu3lGRAaoA6PgAETjlnSRn9ETyAV7Vg7hNPDGvSwV5HC+k+AYr06TwfLTdx189ZoWCLG9YoCHl9fLn3rP5IN9q3WAbraWBAfrP0iqB3wmU4hmgM+iAM3+MNlS/AAaLa5Cq0inJVIJN/l2MyNBh3XSruuY0m0btINSbmIDwM+ttY/3O1bQz122rf0ALecdOOG93QVbXOfHOd3KQDqnalh2Q0LF6wpMcPacyhbQxi+4B2+iAgtut+V9RjeVjJ9oCv8oDbkQnCY9pZXMZnAmMTiV5yVQEFs4ajilog4Gpppyzn8DUD3x/AHx5iAmqWv4WwAAAABJRU5ErkJggg==)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+TODO: Business Central
+TODO: EDI
+TODO: Amazon Vendor Central
 
 ## Latest posts
 
