@@ -38,6 +38,16 @@
 [![EDI](./assets/edi.svg)](https://en.wikipedia.org/wiki/Electronic_data_interchange)
 [![Amazon Vendor Central](./assets/avc.svg)](https://vendorcentral.amazon.com/)
 
+<details>
+<summary><b>GitHub stats</b></summary>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michiruf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michiruf&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+</p>
+
+</details>
+
 **Latest posts**
 
 <!-- BLOG-POST-LIST:START -->
