@@ -2,7 +2,7 @@
 
 <b>I'm Michael Ruf</b> - I'm a software engineer based in Germany, focused on Laravel, service integrations, and eCommerce. I like building reliable solutions through rigorous engineering.
 
-**Languages**
+**Languages 📖**
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
@@ -12,14 +12,14 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
 
-**Frameworks**
+**Frameworks 📦**
 
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![Vue.js](https://skillicons.dev/icons?i=vuejs)](https://vuejs.org/)
 
-**Tools & platforms**
+**Tools & platforms 🛠️**
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
@@ -27,7 +27,7 @@
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
-**eCommerce**
+**eCommerce 🏷️**
 
 [![Shopify](./assets/shopify.svg)](https://www.shopify.com/)
 [![Akeneo](./assets/akeneo.svg)](https://www.akeneo.com/)
@@ -36,14 +36,14 @@
 [![EDI](./assets/edi.svg)](https://en.wikipedia.org/wiki/Electronic_data_interchange)
 [![Amazon Vendor Central](./assets/avc.svg)](https://vendorcentral.amazon.com/)
 
-**Latest posts**
+**Latest posts 📰**
 
 <!-- BLOG-POST-LIST:START -->
 - [Copy-Pasting HTTP Fakes by Hand? Laravel Http Automock Can Do It For You](https://dev.to/michiruf/copy-pasting-http-fakes-by-hand-laravel-http-automock-can-do-it-for-you-kok)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-<summary><b>GitHub stats</b></summary>
+<summary><b>GitHub stats 📈</b></summary>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=michiruf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
