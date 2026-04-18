@@ -4,7 +4,10 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
     <rect width="48" height="48" rx="11" fill="#242938"/>
-    <svg x="10" y="10" width="28" height="28" viewBox="0 0 24 24">
+    <text x="24" y="20" text-anchor="middle" fill="#ffffff"
+          font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+          font-weight="700" font-size="14" textLength="24" lengthAdjust="spacing">EDI</text>
+    <svg x="12" y="26" width="24" height="16" viewBox="3 6 18 12">
         <path fill="#ffffff" d="M3 9l3-3v2h12V6l3 3-3 3v-2H6v2zm0 6l3 3v-2h12v2l3-3-3-3v2H6v-2z"/>
     </svg>
 </svg>
