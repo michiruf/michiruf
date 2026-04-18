@@ -1,8 +1,6 @@
-<h1 align="center">Michael Ruf</h1>
+# Hey there! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5686F5&center=true&vCenter=true&width=650&lines=Software+engineer+based+in+Germany;Laravel+%E2%80%A2+Service+integrations+%E2%80%A2+eCommerce;Reliable+solutions+through+rigorous+engineering" alt="intro" />
-</p>
+<b>I'm Michael Ruf</b> - I'm a software engineer based in Germany, focused on Laravel, service integrations, and eCommerce. I like building reliable solutions through rigorous engineering.
 
 **Languages**
 
@@ -38,6 +36,12 @@
 [![EDI](./assets/edi.svg)](https://en.wikipedia.org/wiki/Electronic_data_interchange)
 [![Amazon Vendor Central](./assets/avc.svg)](https://vendorcentral.amazon.com/)
 
+**Latest posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Copy-Pasting HTTP Fakes by Hand? Laravel Http Automock Can Do It For You](https://dev.to/michiruf/copy-pasting-http-fakes-by-hand-laravel-http-automock-can-do-it-for-you-kok)
+<!-- BLOG-POST-LIST:END -->
+
 <details>
 <summary><b>GitHub stats</b></summary>
 
@@ -47,12 +51,5 @@
 </p>
 
 </details>
-
-**Latest posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Copy-Pasting HTTP Fakes by Hand? Laravel Http Automock Can Do It For You](https://dev.to/michiruf/copy-pasting-http-fakes-by-hand-laravel-http-automock-can-do-it-for-you-kok)
-<!-- BLOG-POST-LIST:END -->
-
 
 <!-- TODO: Support section (Buy Me a Coffee / Ko-fi) — add once an account is set up. -->
