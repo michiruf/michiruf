@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5686F5&center=true&vCenter=true&width=650&lines=Software+engineer+based+in+Germany;Laravel+%E2%80%A2+Service+integrations+%E2%80%A2+eCommerce;Reliable+solutions+through+rigorous+engineering" alt="intro" />
-</p>
-
 # Hey there! 👋
 
 <b>I'm Michael Ruf</b> - I'm a software engineer based in Germany, focused on Laravel, service integrations, and eCommerce. I like building reliable solutions through rigorous engineering.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5686F5&center=true&vCenter=true&width=650&lines=Software+engineer+based+in+Germany;Laravel+%E2%80%A2+Service+integrations+%E2%80%A2+eCommerce;Reliable+solutions+through+rigorous+engineering" alt="intro" />
+</p>
 
 **Languages 📖**
 
